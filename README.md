@@ -78,3 +78,10 @@ JavaScript best practises and other collective things
   * css modules
   * flow type
   * ramda compose
+
+## Interesting newer stuff
+
+ * https://github.com/storybooks/react-storybook
+ * https://github.com/cyrus-and/chrome-remote-interface
+ * https://www.browsersync.io/
+ * https://github.com/cortesi/devd
